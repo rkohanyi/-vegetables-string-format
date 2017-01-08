@@ -1,0 +1,42 @@
+:source-highlighter: coderay
+:icons: font
+
+= Vegetables String Format Exercise 
+
+The goal of this exercise is to write a function that takes the following input
+
+[source,python]
+----
+[
+    ['alma', 100],
+    ['répa', 40],
+    ['vöröshagyma', 210],
+    ['káposzta', 300],
+    ['sárgabarack', 232132],
+    ['szőlő', 500],
+    ['paprika', 20],
+    ['karalábé', 710],
+    ['őszibarack', 42],
+    ['szilva', 10],
+    ['jégsaláta', 1420],
+]
+----
+
+and outputs the following to the terminal
+
+[source,text]
+----
+#################################
+# 1.  #    alma     #    100 Ft #
+# 2.  #    répa     #     40 Ft #
+# 3.  # vöröshagyma #    210 Ft #
+# 4.  #  káposzta   #    300 Ft #
+# 5.  # sárgabarack # 232132 Ft #
+# 6.  #    szőlő    #    500 Ft #
+# 7.  #   paprika   #     20 Ft #
+# 8.  #  karalábé   #    710 Ft #
+# 9.  # őszibarack  #     42 Ft #
+# 10. #   szilva    #     10 Ft #
+# 11. #  jégsaláta  #   1420 Ft #
+#################################
+----
